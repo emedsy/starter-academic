@@ -13,22 +13,22 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# 在主题中应用幻灯片
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[主题](https://wowchemy.com/) | [文档](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Controls
+## 特性，特点
+
+- 在markdown中，有效的使用幻灯片
+- 3-in-1: 创造，呈现，发布你的幻灯片
+- 支持演讲模式
+- 移动友好的幻灯
+
+---
+
+## 控制
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`

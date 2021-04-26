@@ -69,8 +69,10 @@ email: "bush@alumni.albany.edu"
 highlight_name: true
 ---
 
-bush qin is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+bush qin 外科教授，现就职沈阳一所三级甲等医院普通外科，并获得美容外科主诊医师资格，擅长胃肠，肝胆，乳腺，甲状腺疾病的微创的诊断及治疗，同时，开展整形美容外科疾病的诊断治疗及相关的科普工作。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+在感受到网络技术的迅速发展，也参与和学习网络技术的应用实践中，尝试学习和建立自己的博客项目
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
