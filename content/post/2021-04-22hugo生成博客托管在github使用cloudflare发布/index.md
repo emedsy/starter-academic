@@ -126,3 +126,9 @@ git add .
 git commit -m "git submodule updated"
 ```
 这样，子模块里边的和仓库是同步的
+
+如果在其他机器想编辑博客
+```
+git pull
+git merge
+```
