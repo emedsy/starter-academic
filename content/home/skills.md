@@ -19,7 +19,7 @@ feature:
 - description: 90%
   icon: clinic-medical
   icon_pack: fas
-  name: surgeon
+  name: clinic-medical
 - description: 100%
   icon: hospital-user
   icon_pack: fas

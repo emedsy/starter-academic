@@ -71,8 +71,10 @@ highlight_name: true
 
 bush qin 外科教授，现就职沈阳一所三级甲等医院普通外科，并获得美容外科主诊医师资格，擅长胃肠，肝胆，乳腺，甲状腺疾病的微创的诊断及治疗，同时，开展整形美容外科疾病的诊断治疗及相关的科普工作。
 
-在感受到网络技术的迅速发展，也参与和学习网络技术的应用实践中，尝试学习和建立自己的博客项目
+在感受到网络技术的迅速发展，也参与和学习网络技术的应用实践中，尝试学习和建立自己的博客项目.
+
+由于博客刚刚建立，处于试运行阶段，对博客的框架还有许多问题还需要学习和解决，本身时间有限，博客也在不断对完善中。
 
 
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="ambulance" pack="fas" >}} 下载我的 {{< staticref "media/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
