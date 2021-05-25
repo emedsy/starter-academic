@@ -160,3 +160,5 @@ sudo ufw allow 8080/tcp
 默认情况下，WildFly将在HTTP端口8080上可用。打开您喜欢的浏览器，然后浏览至或完成所需的步骤以完成安装。http://your-domain.com:8080http://server-ip-address:8080
 
 恭喜你！您已经成功安装了WildFly。感谢您使用本教程在Debian 10上安装WildFly Jboss的最新版本。有关其他帮助或有用的信息，我们建议您检查[WildFly官方网站](https://www.wildfly.org/)
+
+<iframe src="//player.bilibili.com/player.html?aid=374158779&bvid=BV1ao4y197Fn&cid=296344460&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
