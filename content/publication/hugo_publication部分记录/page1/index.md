@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2021 04 29hugo的academic Themes的使用问题"
+title: "hugo book 设置练习"
 subtitle: ""
 summary: ""
 authors: [admin]
 tags: []
 categories: []
-date: 2021-04-29T19:52:08+08:00
-lastmod: 2021-04-29T19:52:08+08:00
+date: 2021-05-30T20:56:15+08:00
+lastmod: 2021-05-30T20:56:15+08:00
 featured: true
 draft: false
 
@@ -25,23 +25,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [example]
-slides: example
+projects: []
 ---
-## hugo的academic Themes的使用问题
-
 
 ```
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-```
+hugo new publication/hugo_publication部分记录/page1/page1.md
 
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-
-```
-hugo new post/2021-05-15debian下安装pacs服务器记录及尝试/index.md
 ```
