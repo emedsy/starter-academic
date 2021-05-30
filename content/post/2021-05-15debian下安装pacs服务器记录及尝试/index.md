@@ -162,3 +162,5 @@ sudo ufw allow 8080/tcp
 恭喜你！您已经成功安装了WildFly。感谢您使用本教程在Debian 10上安装WildFly Jboss的最新版本。有关其他帮助或有用的信息，我们建议您检查[WildFly官方网站](https://www.wildfly.org/)
 
 <iframe src="//player.bilibili.com/player.html?aid=374158779&bvid=BV1ao4y197Fn&cid=296344460&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=503332371&bvid=BV1ig41137QS&cid=345987362&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
