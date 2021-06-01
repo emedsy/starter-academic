@@ -202,3 +202,11 @@ CALM对激光治疗的反应是可变的。色素的清除通常不均匀，并�
 每4到12周进行一次三到八次近似连续连续532 nm倍频Nd：YAG的治疗，对麻黄素也有效，该研究包括14例麻黄素患者（皮肤光敏性IV型).14名患者中有10名（71％）的病情好转超过50％。10％的患者中有4位在两年内复发，复发率提高了50％。
 
 与脉冲激光器相比，准连续激光器具有更大的不良反应风险。分别有25％，15％和10％的患者出现短暂性色素减退，轻度组织改变和色素沉着.
+
+<script src="https://utteranc.es/client.js"
+        repo="emedsy/starter-academic"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
