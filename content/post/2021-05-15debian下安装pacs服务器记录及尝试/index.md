@@ -164,3 +164,11 @@ sudo ufw allow 8080/tcp
 <iframe src="//player.bilibili.com/player.html?aid=374158779&bvid=BV1ao4y197Fn&cid=296344460&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <iframe src="//player.bilibili.com/player.html?aid=503332371&bvid=BV1ig41137QS&cid=345987362&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<script src="https://utteranc.es/client.js"
+        repo="emedsy/starter-academic"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

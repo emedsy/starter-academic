@@ -121,7 +121,8 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: 'disqus'
+
+  provider: ''
   commentable:
     post: true
     book: true
@@ -129,8 +130,8 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: 'surginsy'
-    show_count: true
+    shortname: ''
+    show_count: false
   commento:
     url: ''
 search:
