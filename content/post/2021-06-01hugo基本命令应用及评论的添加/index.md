@@ -3,7 +3,7 @@
 
 title: "2021 06 01hugo基本命令应用及utterances评论的添加"
 subtitle: "hugo的基本应用"
-summary: ""
+summary: "基本的hugo的博文生成命令;安装utterances;将视频显示在博客中"
 authors: [admin]
 tags: [hugo，博客]
 categories: []

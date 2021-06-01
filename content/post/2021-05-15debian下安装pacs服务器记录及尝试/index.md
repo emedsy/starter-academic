@@ -3,10 +3,17 @@
 
 title: "2021 05 15debian下安装pacs服务器记录及尝试"
 subtitle: ""
-summary: ""
-authors: []
+summary: "安装所需应用及版本
+JDK1.8
+安装教程地址(包含手动/自动)
+
+MARIADB
+安装教程地址
+
+-wildfly"
+authors: [admin]
 tags: []
-categories: []
+categories: [搭建中]
 date: 2021-05-15T18:49:08+08:00
 lastmod: 2021-05-15T18:49:08+08:00
 featured: true
