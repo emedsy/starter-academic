@@ -41,3 +41,13 @@ b站的cdn做的很好，医学视频不被通过，但是音乐视频基本通�
 ```
 
 <iframe src="//player.bilibili.com/player.html?aid=205904730&bvid=BV1fh411Y7nH&cid=349353518&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="emedsy/starter-academic"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
